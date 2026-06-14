@@ -40,7 +40,7 @@
 
 ---
 
-## 📖 Overview
+## 📖 Overview 
 
 **Adaptive RAG - End-to-End Data Engineering Solution** is a production-ready data engineering platform that leverages **Databricks Free Edition** and **AWS Cloud** infrastructure to build a comprehensive data lake and analytics solution for the FMCG (Fast-Moving Consumer Goods) industry.
 
