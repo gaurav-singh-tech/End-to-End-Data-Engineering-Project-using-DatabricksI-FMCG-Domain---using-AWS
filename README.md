@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 End-to-End Data Engineering Project  
-## Using Databricks Free Edition | FMCG Domain | AWS Cloud
+## Using Databricks Free Edition | FMCG Domain | AWS Cloud 
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github)](https://github.com/gaurav-singh-tech)
 [![Jupyter Notebook](https://img.shields.io/badge/Language-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
