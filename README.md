@@ -73,7 +73,7 @@ This project demonstrates enterprise-level data engineering practices including:
   - Order Fact Table Processing
 
 - **Data Quality Assurance**
-  - Schema Validation
+  - Schema Validation 
   - Duplicate Detection
   - Null Value Handling
 
