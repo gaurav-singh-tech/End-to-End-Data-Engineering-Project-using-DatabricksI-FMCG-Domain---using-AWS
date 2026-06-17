@@ -85,7 +85,7 @@ This project demonstrates enterprise-level data engineering practices including:
 - **High-Performance Processing**
   - Apache Spark Distributed Computing
   - Optimized Partitioning Strategy
-  - Efficient Data Compression 
+  - Efficient Data Compression  
 
 - **Cloud-Native Architecture**
   - AWS S3 for Data Storage
@@ -95,7 +95,7 @@ This project demonstrates enterprise-level data engineering practices including:
 - **Enterprise Grade**
   - Audit Logging
   - Data Lineage Tracking
-  - Error Handling & Recovery
+  - Error Handling & Recovery 
 
 </td>
 </tr>
