@@ -97,7 +97,7 @@ This project demonstrates enterprise-level data engineering practices including:
   - Data Lineage Tracking
   - Error Handling & Recovery 
 
-</td>
+</td> 
 </tr>
 </table>
 
